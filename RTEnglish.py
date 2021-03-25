@@ -25,7 +25,7 @@ search = driver.find_element_by_name("q")
 
 time.sleep(2)
 
-search.send_keys("black lives matter george floyd")
+search.send_keys("black lives matter 2020")
 
 time.sleep(2)
 
